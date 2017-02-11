@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1486839247 source:/home/OutSider/Documents/University/Practice/AlgorithmTestingStuff/Stack/main.cpp
+	<iostream>
+	"Stack.h"
+
+1486778153 /home/OutSider/Documents/University/Practice/AlgorithmTestingStuff/Stack/Stack.h
+
+1486839728 source:/home/OutSider/Documents/University/Practice/AlgorithmTestingStuff/Stack/Stack.cpp
+	"Stack.h"
+	<iostream>
+	<math.h>
+
